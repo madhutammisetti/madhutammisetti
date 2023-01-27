@@ -22,9 +22,13 @@ Skill Set : JavaScript, React.js, Html, CSS, DOM, RESTAPI's, Nodejs, Express, Mo
 
 LinkedIn : https://www.linkedin.com/in/madhu-tammisetti-5a6a84169/
 
+Portfolio: https://madhutammisetti.github.io/madhu_codes/
+
 Github   : https://github.com/madhutammisetti
 
 Instagram: https://www.instagram.com/madhu_codes/
+
+Twitter  :   https://twitter.com/wifidigi2
 
 <!---
 madhutammisetti/madhutammisetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
