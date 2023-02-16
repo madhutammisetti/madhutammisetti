@@ -1,6 +1,6 @@
                                                              👋 Hi, I’m Madhu Tammisetti
                                                      Full Stack MERN Developer / Security Engineer
-I possess extensive experience in building professional websites/ web applications with front-end and back-end technologies. My working experience in IT sector along with my skills in front-end technologies such as JavaScript, React.js, HTML, CSS, Bootstrap, back-end technologies such as Nodejs, Express, JWT, Socket.io and Databases such as MySQL, MongoDB enable me to turn into Full-Stack Developer which helps to create high-quality, visually appealing, and user-friendly web and window-based applications.
+I possess extensive experience in building professional websites/ web applications with front-end and back-end technologies. My working experience in IT sector along with my skills in front-end technologies such as JavaScript, React.js, HTML, CSS, Bootstrap, back-end technologies such as Nodejs, Express, JWT, Socket.io and Databases such as MySQL, MongoDB enable me to turn into Full-Stack Developer which helps to create high-quality, visually appealing, and user-friendly websites and web applications.
 
 In addition to my professional experience, I am a dedicated learner constantly seeking to expand my knowledge and skills. I have developed over 07 mini and major projects using technologies such as Reactjs and Nodejs, MongoDB some of which have been deployed and are live hosted. You can find more information about these projects by visiting my GitHub page.
 
